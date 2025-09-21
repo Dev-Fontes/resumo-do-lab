@@ -1,2 +1,3 @@
 # resumo-do-lab
-repository dedicated to the DIO plataform
+Repositório dedicado para a plataforma DIO
+curso atual az-900
